@@ -1,2 +1,2 @@
-# diciplina
+# disciplina
 recursos github
